@@ -16,7 +16,7 @@
         
     ],
     "data": [
-        'views/assets.xml',
+        # 'views/assets.xml',
         'views/website_config_settings.xml',
         # 'views/contactus.xml'
     ],
